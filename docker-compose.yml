@@ -2,7 +2,7 @@
 version: "3"
 services:
   little-link:
-    image: docker.io/yqlbu/littlelink-server:latest
+    image: docker.io/hikariai/littlelink-server:latest
     container_name: littlelink-server
     environment:
       - META_TITLE=Hikariai
