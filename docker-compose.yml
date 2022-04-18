@@ -46,6 +46,6 @@ services:
       # - SKOOB=https://www.skoob.com.br/
     ports:
       - 3000:3000
-    restart: unless-stopped
+    restart: always
     security_opt:
       - no-new-privileges:true
