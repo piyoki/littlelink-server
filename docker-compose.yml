@@ -9,9 +9,9 @@ services:
       - META_DESCRIPTION=Kevin Yu Link page
       - META_AUTHOR=Kevin Yu
       - THEME=Dark
-      - FAVICON_URL=https://objectstorage.ap-tokyo-1.oraclecloud.com/n/nrmjjlvckvsb/b/bucket-20210817-2342/o/littleserver-link202108211630.jpg
-      - AVATAR_URL=https://objectstorage.ap-tokyo-1.oraclecloud.com/n/nrmjjlvckvsb/b/bucket-20210817-2342/o/littleserver-link202108211630.jpg
-      - AVATAR_2X_URL=https://objectstorage.ap-tokyo-1.oraclecloud.com/n/nrmjjlvckvsb/b/bucket-20210817-2342/o/littleserver-link202108211630.jpg
+      - FAVICON_URL=https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/10-22-0cdf62d6ef43f5c3ad43827c749f5cdd.jpg
+      - AVATAR_URL=https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/10-22-0cdf62d6ef43f5c3ad43827c749f5cdd.jpg
+      - AVATAR_2X_URL=https://nrmjjlvckvsb.compat.objectstorage.ap-tokyo-1.oraclecloud.com/picgo/2022/10-22-0cdf62d6ef43f5c3ad43827c749f5cdd.jpg
       - AVATAR_ALT=Kevin Yu Profile Pic
       - NAME=Hikariai
       - BIO=Hey! Just a place where you can connect with me!
