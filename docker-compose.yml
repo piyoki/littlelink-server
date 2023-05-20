@@ -17,12 +17,12 @@ services:
       - BIO=Hey! Just a place where you can connect with me!
       - HUGO=https://www.hikariai.net
       - GITHUB=https://github.com/yqlbu
-      - LINKED_IN=http://www.linkedin.com/in/chinglong-kevin-yu
       - DISCORD=https://discord.gg/95K3J3a4
       - TWITCH=https://www.twitch.tv/TheDevOpsNut
       - EMAIL=kevinyu211@yahoo.com
       - TELEGRAM=https://t.me/hikariai_channel
       - FOOTER=Thanks for stopping by!
+      # - LINKED_IN=
       # - TWITTER=
       # - INSTAGRAM=
       # - YOUTUBE=
