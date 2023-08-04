@@ -19,9 +19,9 @@ services:
       - GITHUB=https://github.com/yqlbu
       - DISCORD=https://discord.gg/95K3J3a4
       - TWITCH=https://www.twitch.tv/TheDevOpsNut
-      - EMAIL=kevinyu211@yahoo.com
       - TELEGRAM=https://t.me/hikariai_channel
       - FOOTER=Thanks for stopping by!
+        # EMAIL=
       # - LINKED_IN=
       # - TWITTER=
       # - INSTAGRAM=
